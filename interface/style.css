@@ -1,0 +1,302 @@
+* {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+.container{
+    margin: auto;
+}
+    body {
+  
+        font-family: "Lato", sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.7;
+        color: #777777;
+        padding: 30px;
+
+    }
+
+    header {
+        background-image:
+            linear-gradient(to right bottom, rgba(200, 166, 65, 0.8), rgb(28, 62, 255, .4)),
+            url('../interface/img/banner1.png');
+        background-size: cover;
+        background-position: top;
+        position: relative;
+        height: 95vh;
+        clip-path: ellipse(72% 68% at 50% 31%);
+
+
+    }
+
+    .text-box {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align: center;
+    }
+
+    .logo {
+        height: 120px;
+        margin: 10px 10px;
+        animation-name: animationtest;
+        animation-duration: 4s;
+        /* animation-iteration-count: ; */
+       
+    }
+
+    .logo-box {
+        position: absolute;
+        top: 30px;
+        left: 30px;
+        
+    }
+    
+
+    .heading-primary {
+        color: #fff;
+        text-transform: uppercase;
+        margin-bottom: 60px;
+        /* animation-name: animationtest;
+        animation-duration: 2s;
+        animation-iteration-count: 2;    animation-iteration-count là lặp lại nhiều lần
+        animation-delay: 3s;    sau 3 giây hiệu ứng ms  mới chạy */
+    }
+
+    .heading-primary_main {
+        display: block;
+        font-size: 72px;
+        font-weight: 700;
+        letter-spacing: 15px;
+        animation: moveInLeft 2s ease-out;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        color: #da0707;
+        padding-top: 20px ;
+   
+    }
+
+    .heading-primary_sub {
+        display: block;
+        font-size: 20px;
+        font-weight: 700;
+        letter-spacing: 18px;
+        animation: moveInRight 2s ease-out;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+
+    .btn,
+    .btn:link,
+    .btn:visited {
+        text-transform: uppercase;
+        text-decoration: none;
+        padding: 15px 40px;
+        display: inline-block;
+        border-radius: 100px;
+        font-size: 20px;
+        position: relative;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        color: black;
+    }
+
+    .btn {
+        animation-name: animationtest;
+        animation-duration: 2s;
+    }
+
+    .btn-white {
+        color: #777777;
+        background-color: #fff;
+
+    }
+
+    .btn:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 5px 20px rgb(0, 0, 0, .2);
+    }
+
+    .btn:active {
+        outline: none;
+        transform: translateY(-1px);
+        box-shadow: 0 5px 10px rgb(0, 0, 0, .2);
+    }
+
+    .btn::after {
+        content: "";
+        display: inline-block;
+        height: 100%;
+        width: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        border-radius: 100px;
+        z-index: -1;
+        transition: .4s;
+    }
+
+    .btn-white::after {
+        background-color: #fff;
+    }
+
+    .btn:hover::after {
+        transform: scaleX(1.4) scaley(1.6);
+        opacity: 0;
+    }
+
+
+    @keyframes animationtest {
+        0% {
+            opacity: 0;
+            transform: translate(0, -100px);
+        }
+
+        80% {
+
+            transform: translate(0, -10px);
+        }
+
+        100% {
+            opacity: 1;
+            transform: translate(0, 0);
+        }
+    }
+
+    @keyframes moveInLeft {
+        0% {
+            opacity: 0;
+            transform: translateX(0, -100px);
+        }
+
+        80% {
+
+            transform: translateX(10px);
+        }
+
+        100% {
+            opacity: 1;
+            transform: translateX(0);
+        }
+    }
+
+    @keyframes moveInRight {
+        0% {
+            opacity: 0;
+            transform: translateX(0, -100px);
+        }
+
+        80% {
+
+            transform: translateX(-10px);
+        }
+
+        100% {
+            opacity: 1;
+            transform: translateX(0);
+        }
+    }
+    .slide-show img{
+        height: 250px;
+        object-fit: cover ;
+        object-position: center;
+    }
+    .layout{
+     padding-top: 30px;
+
+     font-family: 'Times New Roman', Times, serif;
+    }
+    .layout-head{
+       
+        display: flex;
+        justify-content: space-between;
+       text-decoration: none;
+    }
+    .head-title{
+        font-weight: 700;
+    
+    }
+    .text{
+        text-decoration: none;
+        color: #da0707;
+    }
+    img{
+        object-fit: cover ;
+        object-position: center;
+    }
+    .item-main{
+        padding-top:20px ;
+        padding-bottom: 20px;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        gap: 16px;
+    }
+    .item-media{
+    display: flex;
+    padding-left: 20px;
+    }
+    .item-img{
+        width: 100px;
+        height: 100px;
+      border-radius: 10px;
+      /* -moz-border-radius:50% ;
+      -webkit-border-radius:50%;
+       */
+     box-shadow: 10px 2px 10px;
+    }
+    .item-img:hover{
+        position: relative;  
+        box-shadow: 1px 2px 4px rgba(8, 60, 203, 0.937);  padding: 10px;  background: white;}#boxshadow img {  width: 100%;  border: 1px solid #8a4419;  border-style: inset;}#boxshadow::after {  content: '';  position: absolute;  z-index: -1; /* ẩn shadow phía sau hình ảnh */  box-shadow: 0 15px 20px rgba(0, 0, 0, 0.3);   width: 70%;   left: 15%;  height: 100px;  bottom: 0;
+    }
+    .title-item{
+        font-weight: 700;
+        padding-top: 20px;
+        padding-left: 20px;
+        
+    }
+    .item{
+        color: #777777;
+        padding-left: 20px;
+     
+    }
+    .footer{
+        
+        margin-top: 10px;
+        background: #000;
+        height: 400px;
+        gap: 20px;
+    }
+    .footer-main{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        color: #fff;
+    }
+    .info{
+        padding-left: 100px;
+    }
+    .info-item{
+        text-decoration: none;
+        color: #fff;
+        font-weight: 700;
+    }
+    .time{
+        padding-left: 100px; 
+    }
+    .time-detal{
+        list-style: none;
+    }
+    .phone{
+        color: #fabd05;
+        text-transform: uppercase;
+        font-weight: 600;
+        font-size: 16px;
+        margin-left: 10px;
+        font-family: Oswald;
+        padding-left: 20px;
+    }
+    .app-cash{
+        padding-left: 30px;
+        padding-top: 20px;
+    }
+    .app-cash__list{
+        display: flex;
+    }
