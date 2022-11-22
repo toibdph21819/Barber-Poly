@@ -11,7 +11,8 @@
     <script src="https://unpkg.com/boxicons@2.1.4/dist/boxicons.js"></script>
 </head>
 <body>
-<div class="login-box">
+ <div class="container">
+        <div class="login-box">
                 <h2>Đăng nhập</h2>
                 <form>
                   <div class="user-box">
@@ -31,6 +32,8 @@
                   </a>
                 </form>
               </div>
+        </div>
+
       <script src="../public/main.js"></script>  
 </body>
 </html>
