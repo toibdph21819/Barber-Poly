@@ -1,0 +1,111 @@
+  /* header */
+  .body-service{
+        background-color: #4543430e;
+    }
+    .other-service-header{
+      background-color: rgb(238, 234, 234);
+      box-shadow: 0 2px 8px hsl(0deg 0% 78% / 25%);
+      border-bottom: 1px solid hsla(0,0%,93.3%,.7);
+      font-family: be vietnam pro,sans-serif;
+      font-weight: 300;
+      position: relative;
+      height: 140px;
+  }
+  .logo-box {
+    /* position: absolute; */
+    top: 30px;
+    left: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.menu {
+  display: flex;
+  
+}
+
+.menu-main {
+  display: flex;
+  padding-right: 30px;
+}
+.menu li {
+  list-style: none;
+}
+.menu li a{
+  text-decoration: none;
+  padding: 30px;
+  color: #000;
+  font-size: 24px;
+  font-weight: 500;
+  
+}
+.kont-main{
+  display: flex;
+}
+.knot{
+  padding: 10px;
+  background: #fabd05;
+  font-weight: 700;
+  white-space: nowrap;
+  text-transform: uppercase;
+  margin-left: 8px;
+  font-size: 14px;
+  color: #000;
+  border-radius: 5px;
+ 
+ }
+ /* end header */
+
+ /* footer */
+ .footer {
+  width: 100%;
+   margin-top: 10px;
+   background: #000;
+   height: 400px;
+   gap: 20px;
+   
+}
+
+.footer-main {
+   display: grid;
+   grid-template-columns: 1fr 1fr;
+   color: #fff;
+}
+
+.info {
+   padding-left: 100px;
+}
+
+.info-item {
+   text-decoration: none;
+   color: #fff;
+   font-weight: 700;
+}
+
+.time {
+   padding-left: 100px;
+}
+
+.time-detal {
+   list-style: none;
+}
+
+.phone {
+   color: #fabd05;
+   text-transform: uppercase;
+   font-weight: 600;
+   font-size: 16px;
+   margin-left: 10px;
+   font-family: Oswald;
+   padding-left: 20px;
+}
+
+.app-cash {
+   padding-left: 30px;
+   padding-top: 20px;
+}
+
+.app-cash__list {
+   display: flex;
+}
