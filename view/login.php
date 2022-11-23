@@ -18,13 +18,13 @@
 
         <div class="menu-main">
           <ul class="menu">
-            <li><a href="">Trang chủ</a></li>
+            <li><a href="index.php">Trang chủ</a></li>
             <li><a href="">Phản Hồi</a></li>
           </ul>
-          <div>
-            <button class="knot"><span><img src="../public/img/icon/30shine.38a2a504.svg" alt=""></span> Đăng
-              nhập </button>
-          </div>
+          <div class="knot-main menu">
+                        <button class="knot"><span><img src="../public/img/icon/30shine.38a2a504.svg" alt=""></span> <a href="login.php">Đăng
+                            nhập</a> </button>
+                    </div>
         </div>
       </div>
     </header>
@@ -49,6 +49,9 @@
           </a>
         </form>
       </div>
+      
+      
+
     </div>
    
 
