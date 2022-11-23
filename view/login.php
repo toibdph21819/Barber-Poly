@@ -50,49 +50,7 @@
         </form>
       </div>
     </div>
-    <footer class="footer">
-        <div class="container">
-            <div class="footer-main">
-                <div class="info">
-                    <p class="info-item">CÔNG TY CỔ PHẦN 5 THÀNH VIÊN:))</p>
-                    <p>
-                        Tòa nhà FPT Polytechnic, P. Trịnh Văn Bô, Xuân Phương, Nam Từ Liêm, Hà Nội, Việt Nam <br>
-                        Số giấy chứng nhận kinh doanh: xxx.xxxx.xxx <br>
-                        Ngày cấp: 0x/0x/xxx <br>
-                        Nơi cấp: Sở kế hoạch đầu tư TP Hà Nội</p>
-                    <a href="" class="info-item">Chính sách bảo mật thông tin
-                    </a> <br>
-                    <a href="" class="info-item">Liên hệ quảng cáo barber poly</a>
-                    <p>TRUNG TÂM ĐÀO TẠO NGHỀ TÓC Barber <br>
-                        Địa chỉ: <br>
-                        - Hà Nội: Tòa nhà FPT Polytechnic, P. Trịnh Văn Bô, Xuân Phương, Nam Từ Liêm, Hà Nội, Việt Nam
-                        <br>
-                        Liên hệ học nghề tóc: xxxx.xx.xxxx
-                    </p>
-                </div>
-                <div class="time">
-                    <ul class="time-detal">
-                        <li>GIỜ PHỤC VỤ </li>
-                        <li>Thứ 2 đến thứ 6: 8h00 - 21h00</li>
-                        <li>Thứ 7, chủ nhật: 7h30 - 21h00</li>
-                    </ul>
-                    <div class="phone">
-                        <img src="../public/img/icon/phone-2.aecf5e0a.svg" alt="">
-                        <span>HOTLINE: 1800.xx.xx.xx (Miễn phí)</span>
-                    </div>
-                    <div class="app-cash">
-                        <span class="app-cash__label">Chấp nhận thanh toán</span>
-                        <div class="app-cash__list">
-                            <div class="app-cash__item">
-                                <img src="../public/img/icon/visa.689e1cc5.svg" alt="">
-                            </div>
-                            <div class="app-cash__item"><img src="../public/img/icon/mastercard.7d32e23f.svg" alt=""></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
+   
 
     <script src="../public/main.js"></script>
   </body>

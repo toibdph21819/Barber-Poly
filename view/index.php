@@ -16,7 +16,7 @@
     <header>
         <div class="header-main">
             <div class="logo-box">
-                <img src="../public/img/logo.png" alt="" class="logo">
+                <img src="../public/img/logo.png" alt="" class="logo"  >
                 <div class="menu-main">
                     <ul class="menu">
                         <li><a href="">Trang chủ</a></li>
