@@ -20,16 +20,17 @@
 
         <div class="menu-main">
           <ul class="menu">
-            <li><a href="">Trang chủ</a></li>
+            <li><a href="index.php">Trang chủ</a></li>
             <li><a href="">Phản Hồi</a></li>
           </ul>
-          <div>
-            <button class="knot"><span><img src="../public/img/icon/30shine.38a2a504.svg" alt=""></span> Đăng
-              nhập </button>
-          </div>
+          <div class="knot-main menu">
+                        <button class="knot"><span><img src="../public/img/icon/30shine.38a2a504.svg" alt=""></span> <a href="login.php">Đăng
+                            nhập</a> </button>
+                    </div>
         </div>
       </div>
     </header>
+<<<<<<< HEAD:view/login.php
     <section>
         <!--Bắt Đầu Phần Hình Ảnh-->
         <div class="img-bg">
@@ -70,6 +71,35 @@
         </div>
         <!--Kết Thúc Phần Nội Dung-->
     </section>
+=======
+    <div class="container">
+      <div class="login-box">
+        <h2>Đăng nhập</h2>
+        <form>
+          <div class="user-box">
+            <input type="text" name="" required="">
+            <label>Số Điện Thoại</label>
+          </div>
+          <div class="user-box">
+            <input type="password" name="" required="">
+            <label>Mật Khẩu </label>
+          </div>
+          <a href="#">
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            Submit
+          </a>
+        </form>
+      </div>
+      
+      
+
+    </div>
+   
+
+>>>>>>> 3c2bb9f4bc8c3c59148a2c85c38b81e26f46db93:app/views/pages/login.php
     <script src="../public/main.js"></script>
   </body>
 

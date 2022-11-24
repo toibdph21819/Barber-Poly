@@ -460,9 +460,7 @@
     .creen-item span{
         padding-right: 10px;
     }
-   .choose-service{
-    width: 500px;
-   }
-   .choose{
+    .mt-6{
+        margin-top: 1.5rem;
+    }
     
-   }
