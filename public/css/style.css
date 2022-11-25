@@ -24,7 +24,7 @@
     .header-main {
         background-image:
             linear-gradient(to right bottom, rgba(186, 188, 100, 0.8), rgb(28, 62, 255, .4)),
-            url('../img/bannerz.png');
+            url('/upload/img/bannerz.png');
         background-size: cover;
         background-position: top;
         position: relative;

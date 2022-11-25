@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Đăng nhập barber poly</title>
-  <link rel="stylesheet" href="../public/css/login.css">
+  <link rel="stylesheet" href="/public/css/login.css">
   <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
@@ -16,7 +16,7 @@
 <body class="body-service">
     <header class="other-service-header">
       <div class="logo-box">
-        <img class="logo" src="../public/img/logo.png" alt="" height="120px">
+        <img class="logo" src="/upload/img/logo.png" alt="" height="120px">
 
         <div class="menu-main">
           <ul class="menu">
@@ -24,17 +24,17 @@
             <li><a href="">Phản Hồi</a></li>
           </ul>
           <div class="knot-main menu">
-                        <button class="knot"><span><img src="../public/img/icon/30shine.38a2a504.svg" alt=""></span> <a href="login.php">Đăng
+                        <button class="knot"><span><img src="/upload/img/icon/30shine.38a2a504.svg" alt=""></span> <a href="login.php">Đăng
                             nhập</a> </button>
                     </div>
         </div>
       </div>
     </header>
-<<<<<<< HEAD:view/login.php
+
     <section>
         <!--Bắt Đầu Phần Hình Ảnh-->
         <div class="img-bg">
-            <img src="../public/img/banner-login.png"
+            <img src="/upload/img/banner-login.png"
                 alt="">
         </div>
         <!--Kết Thúc Phần Hình Ảnh-->
@@ -71,36 +71,7 @@
         </div>
         <!--Kết Thúc Phần Nội Dung-->
     </section>
-=======
-    <div class="container">
-      <div class="login-box">
-        <h2>Đăng nhập</h2>
-        <form>
-          <div class="user-box">
-            <input type="text" name="" required="">
-            <label>Số Điện Thoại</label>
-          </div>
-          <div class="user-box">
-            <input type="password" name="" required="">
-            <label>Mật Khẩu </label>
-          </div>
-          <a href="#">
-            <span></span>
-            <span></span>
-            <span></span>
-            <span></span>
-            Submit
-          </a>
-        </form>
-      </div>
-      
-      
-
-    </div>
-   
-
->>>>>>> 3c2bb9f4bc8c3c59148a2c85c38b81e26f46db93:app/views/pages/login.php
-    <script src="../public/main.js"></script>
+    <script src="/upload/main.js"></script>
   </body>
 
 </html>
