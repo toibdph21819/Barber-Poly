@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="../public/css/service.css">
+    <link rel="stylesheet" href="/public/css/service.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <script src="https://unpkg.com/boxicons@2.1.4/dist/boxicons.js"></script>
 </head>
@@ -14,7 +14,7 @@
 <body class="body-service">
     <header class="other-service-header">
         <div class="logo-box">
-            <img class="logo" src="../public/img/logo.png" alt="" height="120px">
+            <img class="logo" src="/upload/img/logo.png" alt="" height="120px">
 
             <div class="menu-main">
                 <ul class="menu">
@@ -22,7 +22,7 @@
                     <li><a href="">Phản Hồi</a></li>
                 </ul>
                 <div>
-                    <button class="knot"><span><img src="../public/img/icon/30shine.38a2a504.svg" alt=""></span> Đăng
+                    <button class="knot"><span><img src="/upload/icon/30shine.38a2a504.svg" alt=""></span> Đăng
                         nhập </button>
                 </div>
             </div>
@@ -35,19 +35,19 @@
         <div class="service-main">
             <div class="service-block">
                 <div>
-                <img src="../public/img/img9.jpg" alt="" class="img-service">
+                <img src="/upload/img/img9.jpg" alt="" class="img-service">
                 </div>
                 <button class="knot-service">Chọn dịch vụ</button>
             </div>
             <div class="service-block">
             <div>
-                <img src="../public/img/img9.jpg" alt="" class="img-service">
+                <img src="/upload/img/img9.jpg" alt="" class="img-service">
                 </div>
                 <button class="knot-service">Chọn dịch vụ</button>
             </div>
             <div class="service-block">
             <div>
-                <img src="../public/img/img9.jpg" alt="" class="img-service">
+                <img src="/upload/img/img9.jpg" alt="" class="img-service">
                 </div>
                 <button class="knot-service">Chọn dịch vụ</button>
             </div>
@@ -80,16 +80,16 @@
                         <li>Thứ 7, chủ nhật: 7h30 - 21h00</li>
                     </ul>
                     <div class="phone">
-                        <img src="../public/img/icon/phone-2.aecf5e0a.svg" alt="">
+                        <img src="/upload/img/icon/phone-2.aecf5e0a.svg" alt="">
                         <span>HOTLINE: 1800.xx.xx.xx (Miễn phí)</span>
                     </div>
                     <div class="app-cash">
                         <span class="app-cash__label">Chấp nhận thanh toán</span>
                         <div class="app-cash__list">
                             <div class="app-cash__item">
-                                <img src="../public/img/icon/visa.689e1cc5.svg" alt="">
+                                <img src="/upload/img/icon/visa.689e1cc5.svg" alt="">
                             </div>
-                            <div class="app-cash__item"><img src="../public/img/icon/mastercard.7d32e23f.svg" alt=""></div>
+                            <div class="app-cash__item"><img src="/upload/img/icon/mastercard.7d32e23f.svg" alt=""></div>
                         </div>
                     </div>
                 </div>
