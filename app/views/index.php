@@ -16,14 +16,14 @@
     <header>
         <div class="header-main">
             <div class="logo-box">
-                <img src="../public/img/logo.png" alt="" class="logo"  >
+                <img src="../upload/img/logo.png" alt="" class="logo"  >
                 <div class="menu-main">
                     <ul class="menu">
                         <li><a href="index.php">Trang chủ</a></li>
                         <li><a href="">Phản Hồi</a></li>
                     </ul>
                     <div class="knot-main menu">
-                        <button class="knot"><span><img src="../public/img/icon/30shine.38a2a504.svg" alt=""></span> <a href="login.php">Đăng
+                        <button class="knot"><span><img src="../upload/img/icon/30shine.38a2a504.svg" alt=""></span> <a href="login.php">Đăng
                             nhập</a> </button>
                     </div>
 
@@ -60,7 +60,7 @@
                 <img src="../public/img/img6.png" alt="" width="100%" height="339px">
                 <div class="item-main">
                     <div class="item-media">
-                        <img src="../public/img/nhuom.jpg" alt="" class="item-img">
+                        <img src="../upload/img/nhuom.jpg" alt="" class="item-img">
                         <div>
                             <p class="title-item">thuốc nhuộm nhập khẩu</p>
                             <p class="item">chỉ từ 100k</p>
@@ -68,7 +68,7 @@
 
                     </div>
                     <div class="item-media">
-                        <img src="../public/img/cattoc.jpg" alt="" class="item-img">
+                        <img src="../upload/img/cattoc.jpg" alt="" class="item-img">
                         <div>
                             <p class="title-item">cắt tóc gội đầu</p>
                             <p class="item">bảng giá 2020(hấp dẫn)</p>
@@ -76,7 +76,7 @@
 
                     </div>
                     <div class="item-media">
-                        <img src="../public/img/uon.jpg" alt="" class="item-img">
+                        <img src="../upload/img/uon.jpg" alt="" class="item-img">
                         <div>
                             <p class="title-item">Uốn nhập khẩu </p>
                             <p class="item">chỉ từ 119k</p>
@@ -84,7 +84,7 @@
 
                     </div>
                     <div class="item-media">
-                        <img src="../public/img/dichvumoi.jpg" alt="" class="item-img">
+                        <img src="../upload/img/dichvumoi.jpg" alt="" class="item-img">
                         <div class="">
                             <p class="title-item">Những dịch vụ khác</p>
                             <p class="item">3 dịch vụ khác</p>
@@ -99,19 +99,19 @@
         </div>
         <div class="service">
             <div class="service-item">
-                <img src="../public/img/img7.jpg" alt="" width="300px" height="400px" class="img-service">
+                <img src="../upload/img/img7.jpg" alt="" width="300px" height="400px" class="img-service">
                 <p>eqt4yyyyyyyyyyyyyyyyyyyyyyyyyy</p>
             </div>
             <div class="service-item">
-                <img src="../public/img/img8.jpg" alt="" width="300px" height="400px" class="img-service">
+                <img src="../upload/img/img8.jpg" alt="" width="300px" height="400px" class="img-service">
                 <p>eqt4yyyyyyyyyyyyyyyyyyyyyyyyyy</p>
             </div>
             <div class="service-item">
-                <img src="../public/img/img9.jpg" alt="" width="300px" height="400px" class="img-service">
+                <img src="../upload/img/img9.jpg" alt="" width="300px" height="400px" class="img-service">
                 <p>eqt4yyyyyyyyyyyyyyyyyyyyyyyyyy</p>
             </div>
             <div class="service-item">
-                <img src="../public/img/img7.jpg" alt="" width="300px" height="400px" class="img-service">
+                <img src="../upload/img/img7.jpg" alt="" width="300px" height="400px" class="img-service">
                 <p>eqt4yyyyyyyyyyyyyyyyyyyyyyyyyy</p>
             </div>
 
@@ -120,13 +120,13 @@
             <div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active" data-bs-interval="4000">
-                        <img src="../public/img/img5.png" class="d-block w-100" alt="...">
+                        <img src="../upload/img/img5.png" class="d-block w-100" alt="...">
                     </div>
                     <div class="carousel-item" data-bs-interval="2000">
-                        <img src="../public/img/img4.png" class="d-block w-100" alt="...">
+                        <img src="../upload/img/img4.png" class="d-block w-100" alt="...">
                     </div>
                     <div class="carousel-item">
-                        <img src="../public/img/img3.png" class="d-block w-100" alt="...">
+                        <img src="../upload/img/img3.png" class="d-block w-100" alt="...">
                     </div>
                 </div>
                 <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval"
@@ -170,16 +170,16 @@
                         <li>Thứ 7, chủ nhật: 7h30 - 21h00</li>
                     </ul>
                     <div class="phone">
-                        <img src="../public/img/icon/phone-2.aecf5e0a.svg" alt="">
+                        <img src="../upload/img/icon/phone-2.aecf5e0a.svg" alt="">
                         <span>HOTLINE: 1800.xx.xx.xx (Miễn phí)</span>
                     </div>
                     <div class="app-cash">
                         <span class="app-cash__label">Chấp nhận thanh toán</span>
                         <div class="app-cash__list">
                             <div class="app-cash__item">
-                                <img src="../public/img/icon/visa.689e1cc5.svg" alt="">
+                                <img src="../upload/img/icon/visa.689e1cc5.svg" alt="">
                             </div>
-                            <div class="app-cash__item"><img src="../public/img/icon/mastercard.7d32e23f.svg" alt=""></div>
+                            <div class="app-cash__item"><img src="../upload/img/icon/mastercard.7d32e23f.svg" alt=""></div>
                         </div>
                     </div>
                 </div>
