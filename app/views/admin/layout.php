@@ -41,6 +41,7 @@
       <a href="" class="btn btn-white btn-animated mt-6">Quản lý dịch vụ</a><br>
       <a href="" class="btn btn-white btn-animated mt-6">Quản lý khách hàng</a><br>
       <a href="" class="btn btn-white btn-animated mt-6">Quản lý khuyến mãi</a><br>
+      <a href="" class="btn btn-white btn-animated mt-6">Quản lý trạng thái chờ</a><br>
  
       
 
