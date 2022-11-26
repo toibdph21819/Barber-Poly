@@ -20,13 +20,17 @@
 
         <div class="menu-main">
           <ul class="menu">
-            <li><a href="index.php">Trang chủ</a></li>
-            <li><a href="">Phản Hồi</a></li>
+            <li><a href="/">Trang chủ</a></li>
+            <li><a href="/feedback">Phản Hồi</a></li>
           </ul>
+<<<<<<< HEAD:app/views/pages/datLich.html
           <div class="knot-main menu">
                         <button class="knot"><span><img src="/upload/icon/30shine.38a2a504.svg" alt=""></span> <a href="login.php">Đăng
                             nhập</a> </button>
                     </div>
+=======
+          
+>>>>>>> 6953d6482b55990ad9b8615ed6d6a4136e2c3655:app/views/pages/datLich.php
         </div>
       </div>
     </header>

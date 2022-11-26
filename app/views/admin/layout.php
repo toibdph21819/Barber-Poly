@@ -20,37 +20,37 @@
 <header class="other-service-header">
       <div class="logo-box">
         <img class="logo" src="../public/img/logo.png" alt="" height="120px">
-        
+
 
         <div class="menu-main">
-            
-         
+
+
           <div class="knot-main menu">
-            
+
                         <button class="knot"><span><img src="../public/img/icon/30shine.38a2a504.svg" alt=""></span> <a href="login.php">Đăng
                             xuất</a> </button>
                     </div>
         </div>
       </div>
     </header>
-  
-    
-      
+
+
+
       <div class="mt-6">
       <a href="" class="btn btn-white btn-animated mt-6">Quản lý đánh giá</a><br>
       <a href="" class="btn btn-white btn-animated mt-6">Quản lý dịch vụ</a><br>
       <a href="" class="btn btn-white btn-animated mt-6">Quản lý khách hàng</a><br>
       <a href="" class="btn btn-white btn-animated mt-6">Quản lý khuyến mãi</a><br>
       <a href="" class="btn btn-white btn-animated mt-6">Quản lý trạng thái chờ</a><br>
- 
-      
+
+
 
           </div>
-    
 
-   
 
-  
+
+
+
   </div>
   </body>
 

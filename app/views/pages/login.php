@@ -7,8 +7,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Đăng nhập barber poly</title>
   <link rel="stylesheet" href="/public/css/login.css">
-  <script src="https://cdn.tailwindcss.com"></script>
-
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
         integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 </head>
@@ -20,11 +21,11 @@
 
         <div class="menu-main">
           <ul class="menu">
-            <li><a href="index.php">Trang chủ</a></li>
+            <li><a href="/">Trang chủ</a></li>
             <li><a href="">Phản Hồi</a></li>
           </ul>
           <div class="knot-main menu">
-                        <button class="knot"><span><img src="/upload/img/icon/30shine.38a2a504.svg" alt=""></span> <a href="login.php">Đăng
+                        <button class="knot"><span><img src="/upload/icon/30shine.38a2a504.svg" alt=""></span> <a href="/login">Đăng
                             nhập</a> </button>
                     </div>
         </div>
@@ -41,23 +42,29 @@
         <!--Bắt Đầu Phần Nội Dung-->
         <div class="noi-dung">
             <div class="form">
-                <div class=" my-10">
-                    <h2 class="">Bạn đã đặt lịch thành công, hãy trải nghiệm dịch vụ</h2>
-              
-                    <h3 class="font-mono"> Địa chỉ</h3>
-                 <h4 class="font-mono">Hà Nội: Tòa nhà FPT Polytechnic, P. Trịnh Văn Bô, Xuân Phương, Nam Từ Liêm, Hà Nội, Việt Nam</h4>
-                </div>
-              
-              
-                    
-                 
+                <h2>Trang Đăng Nhập</h2>
+                <form action="">
+                    <div class="input-form">
+                        <span>Tên Người Dùng</span>
+                        <input type="text" name="">
+                    </div>
+                
                     
                     <div class="input-form">
-                        <input type="submit" value="Đã trải nghiệm dịch vụ tại quán">
+                        <span>Mật Khẩu</span>
+                        <input type="password" name="">
                     </div>
-                    
-          
-                <h3>Theo dõi chúng tôi trên Mạng Xã Hội</h3>
+                    <div class="nho-dang-nhap">
+                        <label><input type="checkbox" name=""> Nhớ Đăng Nhập</label>
+                    </div>
+                    <div class="input-form">
+                        <input type="submit" value="Đăng Nhập">
+                    </div>
+                    <div class="input-form">
+                        <p>Bạn Chưa Có Tài Khoản? <a href="/register">Đăng Ký</a></p>
+                    </div>
+                </form>
+                <h3>Đăng Nhập Bằng Mạng Xã Hội</h3>
                 <ul class="icon-dang-nhap">
                     <li><i class="fa fa-facebook" aria-hidden="true"></i></li>
                     <li><i class="fa fa-google" aria-hidden="true"></i></li>
