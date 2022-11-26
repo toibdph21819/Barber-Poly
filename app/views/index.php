@@ -19,11 +19,11 @@
                 <img src="/upload/img/logo.png" alt="" class="logo"  >
                 <div class="menu-main">
                     <ul class="menu">
-                        <li><a href="index.php">Trang chủ</a></li>
+                        <li><a href="/">Trang chủ</a></li>
                         <li><a href="">Phản Hồi</a></li>
                     </ul>
                     <div class="knot-main menu">
-                        <button class="knot"><span><img src="/upload/img/icon/30shine.38a2a504.svg" alt=""></span> <a href="login.php">Đăng
+                        <button class="knot"><span><img src="/upload/icon/30shine.38a2a504.svg" alt=""></span> <a href="/login">Đăng
                             nhập</a> </button>
                     </div>
 
@@ -40,7 +40,7 @@
                     <span class="heading-primary_main">Barber poly</span>
                     <span class="heading-primary_sub">Dịch vụ hàng đầu</span>
                 </h3>
-                <a href="datLich.php" class="btn btn-white btn-animated">Đặt lịch ngay</a>
+                <a href="/datlich" class="btn btn-white btn-animated">Đặt lịch ngay</a>
             </div>
 
 

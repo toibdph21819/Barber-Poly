@@ -24,7 +24,7 @@
             <li><a href="">Phản Hồi</a></li>
           </ul>
           <div class="knot-main menu">
-                        <button class="knot"><span><img src="/upload/img/icon/30shine.38a2a504.svg" alt=""></span> <a href="login.php">Đăng
+                        <button class="knot"><span><img src="/upload/icon/30shine.38a2a504.svg" alt=""></span> <a href="login.php">Đăng
                             nhập</a> </button>
                     </div>
         </div>
