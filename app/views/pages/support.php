@@ -34,7 +34,8 @@
         <div class="fish" id="fish"></div>
         <div class="fish" id="fish2"></div>
         
-        <form id="waterform" method="post">
+        <
+          orm id="waterform" method="post">
         
         <div class="formgroup" id="name-form">
             <label for="name">Tên của bạn</label>

@@ -41,14 +41,14 @@
         <!--Bắt Đầu Phần Nội Dung-->
         <div class="noi-dung">
             <div class="form">
-                <h2>Trang Đăng Nhập</h2>
+                <h2>Trang Đăng Ký</h2>
                 <form action="">
                     <div class="input-form">
                         <span>Tên Người Dùng</span>
                         <input type="text" name="">
                     </div>
                     <div class="input-form">
-                        <span>Số Điên Thoại</span>
+                        <span>Số điện thoại</span>
                         <input type="text" name="">
                     </div>
                     <div class="input-form">
@@ -59,15 +59,11 @@
                         <span>Mật Khẩu</span>
                         <input type="password" name="">
                     </div>
-                    <div class="nho-dang-nhap">
-                        <label><input type="checkbox" name=""> Nhớ Đăng Nhập</label>
-                    </div>
+                    
                     <div class="input-form">
-                        <input type="submit" value="Đăng Nhập">
+                        <input type="submit" value="Đăng Ký">
                     </div>
-                    <div class="input-form">
-                        <p>Bạn Chưa Có Tài Khoản? <a href="login.php">Đăng Ký</a></p>
-                    </div>
+                    
                 </form>
                 <h3>Đăng Nhập Bằng Mạng Xã Hội</h3>
                 <ul class="icon-dang-nhap">
