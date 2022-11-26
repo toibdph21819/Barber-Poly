@@ -304,4 +304,8 @@ section .noi-dung .form .icon-dang-nhap li i{
 .color-text{
   color: #03e9f4;
 }
-
+.grid{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 10px;
+}
