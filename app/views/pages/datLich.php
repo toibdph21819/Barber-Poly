@@ -20,13 +20,10 @@
 
         <div class="menu-main">
           <ul class="menu">
-            <li><a href="index.php">Trang chủ</a></li>
-            <li><a href="">Phản Hồi</a></li>
+            <li><a href="/">Trang chủ</a></li>
+            <li><a href="/feedback">Phản Hồi</a></li>
           </ul>
-          <div class="knot-main menu">
-                        <button class="knot"><span><img src="/upload/img/icon/30shine.38a2a504.svg" alt=""></span> <a href="login.php">Đăng
-                            nhập</a> </button>
-                    </div>
+          
         </div>
       </div>
     </header>
