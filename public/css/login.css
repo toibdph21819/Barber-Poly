@@ -304,8 +304,22 @@ section .noi-dung .form .icon-dang-nhap li i{
 .color-text{
   color: #03e9f4;
 }
+
+
+/* datlich */
+
 .grid{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
-  gap: 10px;
+  text-align: center;
+  width: 300px;
+}
+.time{
+  border: 1px solid #000;
+ 
+  text-decoration: none;
+  color: #000;
+  font-weight: 600;
+  line-height: 10px;
+  
 }

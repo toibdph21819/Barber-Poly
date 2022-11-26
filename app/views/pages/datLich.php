@@ -50,22 +50,20 @@
                     <div class="input-form">
                         <span>Chọn giờ bắt đầu</span>
                        
-                        <div class="grid grid-cols-4 gap-4">
-                        
-                        <div class="text-center rounded-md hover:bg-sky-700 font-mono border-double border-4 border-sky-500"><button class="rounded-full ...">8hAM</button></div>
-                        <div class="text-center rounded-md hover:bg-sky-700 font-mono border-double border-4 border-sky-500"><button class="rounded-full ...">9hAM</button></div>
-                        <div class="text-center rounded-md hover:bg-sky-700  font-mono border-double border-4 border-sky-500"><button class="rounded-full ...">10hAM</button></div>
-                        <div class="text-center rounded-md hover:bg-sky-700  font-mono border-double border-4 border-sky-500"><button class="rounded-full ...">11hAM</button></div>
-                        <div class="text-center rounded-md hover:bg-sky-700  font-mono border-double border-4 border-sky-500"><button class="rounded-full ...">12hAM</button></div>
-                        <div class="text-center rounded-md hover:bg-sky-700  font-mono border-double border-4 border-sky-500"><button class="rounded-full ...">1hPM</button></div>
-                        <div class="text-center rounded-md hover:bg-sky-700  font-mono border-double border-4 border-sky-500"><button class="rounded-full ...">2hPM</button></div>
-                        <div class="text-center rounded-md hover:bg-sky-700  font-mono border-double border-4 border-sky-500"><button class="rounded-full ...">3hPM</button></div>
-                        <div class="text-center rounded-md hover:bg-sky-700  font-mono border-double border-4 border-sky-500"><button class="rounded-full ...">4hPM</button></div>
-                        <div class="text-center rounded-md hover:bg-sky-700  font-mono border-double border-4 border-sky-500"><button class="rounded-full ...">5hPM</button></div>
-                        <div class="text-center rounded-md hover:bg-sky-700  font-mono border-double border-4 border-sky-500"><button class="rounded-full ...">6hPM</button></div>
-                        <div class="text-center rounded-md hover:bg-sky-700  font-mono border-double border-4 border-sky-500"> <button class="rounded-full ...">8hPM</button> </div>
-
-
+                        <div class="grid ">
+                          <div><a href="" class="time">8hAM</a></div>
+                          <div><a href="" class="time">9hAM</a></div>
+                          <div><a href="" class="time">10hAM</a></div>
+                          <div><a href="" class="time">11hAM</a></div>
+                          <div><a href="" class="time">12hAM</a></div>
+                          <div><a href="" class="time">1hPM</a></div>
+                          <div><a href="" class="time">2hPM</a></div>
+                          <div><a href="" class="time">3hPM</a></div>
+                          <div><a href="" class="time">4hPM</a></div>
+                          <div><a href="" class="time">5hPM</a></div>
+                          <div><a href="" class="time">6hPM</a></div>
+                          <div><a href="" class="time">7hPM</a></div>
+                          <div><a href="" class="time">8hPM</a></div>
                         </div>
                     </div>
                     <div class="input-form">
