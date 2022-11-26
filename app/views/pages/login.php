@@ -47,14 +47,8 @@
                         <span>Tên Người Dùng</span>
                         <input type="text" name="">
                     </div>
-                    <div class="input-form">
-                        <span>Số Điên Thoại</span>
-                        <input type="text" name="">
-                    </div>
-                    <div class="input-form">
-                        <span>Email</span>
-                        <input type="email" name="">
-                    </div>
+                
+                    
                     <div class="input-form">
                         <span>Mật Khẩu</span>
                         <input type="password" name="">
@@ -66,7 +60,7 @@
                         <input type="submit" value="Đăng Nhập">
                     </div>
                     <div class="input-form">
-                        <p>Bạn Chưa Có Tài Khoản? <a href="login.php">Đăng Ký</a></p>
+                        <p>Bạn Chưa Có Tài Khoản? <a href="/register">Đăng Ký</a></p>
                     </div>
                 </form>
                 <h3>Đăng Nhập Bằng Mạng Xã Hội</h3>
