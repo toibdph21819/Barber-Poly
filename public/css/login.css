@@ -222,7 +222,20 @@ section .noi-dung .form .icon-dang-nhap li i{
 .kont-main{
   display: flex;
 }
-.knot{
+.knot a{
+  margin-top: 2px;
+  font-weight: 700;
+  white-space: nowrap;
+  text-transform: uppercase;
+  margin-left: 8px;
+  font-size: 14px;
+  color: #000;
+  border-radius: 5px;
+  text-decoration: none;
+  
+ }
+ .knot {
+  display: flex;
   padding: 10px;
   background: #fabd05;
   font-weight: 700;
@@ -232,7 +245,7 @@ section .noi-dung .form .icon-dang-nhap li i{
   font-size: 14px;
   color: #000;
   border-radius: 5px;
- 
+  margin-bottom: 15px;
  }
  /* end header */
 

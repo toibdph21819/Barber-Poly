@@ -71,8 +71,20 @@
   font-size: 14px;
   color: #000;
   border-radius: 5px;
- 
+  margin-bottom: 15px;
  }
+ .knot a{
+   margin-top: 2px;
+   font-weight: 700;
+   white-space: nowrap;
+   text-transform: uppercase;
+   margin-left: 8px;
+   font-size: 14px;
+   color: #000;
+   border-radius: 5px;
+   text-decoration: none;
+   
+  }
  /* end header */
 
  /* content */
