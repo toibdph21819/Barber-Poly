@@ -24,6 +24,9 @@ switch ($request) {
     case '/feedback':
         require __DIR__ . '\app\views\pages\feedback.php';
         break;
+    case '/admin':
+        require __DIR__ . '\app\views\admin\index.php';
+        break;
     default:
         http_response_code(404);
         require __DIR__ . '\app\views\pages\404.php';
