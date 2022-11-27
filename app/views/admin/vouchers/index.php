@@ -94,7 +94,7 @@
                             <td class="text-sm text-gray-900 font-light px-6 py-4 whitespace-nowrap border-r">
                               vssdv
                             </td>
-                            <td class="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900 border-r space-x-2"><a href="create.php" ?>them</a><a href="" ?>xoa</a></td>
+                            <td class="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900 border-r space-x-2"><a href="" ?>them</a><a href="" ?>xoa</a></td>
         
                           </tr>
                        
