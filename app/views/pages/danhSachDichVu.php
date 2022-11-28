@@ -35,19 +35,19 @@
         <div class="service-main">
             <div class="service-block">
                 <div>
-                <img src="/upload/img/img9.jpg" alt="" class="img-service">
+                    <img src="/upload/img/img9.jpg" alt="" class="img-service">
                 </div>
                 <button class="knot-service">Chọn dịch vụ</button>
             </div>
             <div class="service-block">
-            <div>
-                <img src="/upload/img/img9.jpg" alt="" class="img-service">
+                <div>
+                    <img src="/upload/img/img9.jpg" alt="" class="img-service">
                 </div>
                 <button class="knot-service">Chọn dịch vụ</button>
             </div>
             <div class="service-block">
-            <div>
-                <img src="/upload/img/img9.jpg" alt="" class="img-service">
+                <div>
+                    <img src="/upload/img/img9.jpg" alt="" class="img-service">
                 </div>
                 <button class="knot-service">Chọn dịch vụ</button>
             </div>
