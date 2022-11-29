@@ -44,7 +44,9 @@
         <div class="bg-white flex justify-center">
           <div class="flex flex-col p-10">
             <h2 class="text-xl text-center">Danh sách người dùng</h2>
-        
+            <div class="flex space-x-2 justify-center">
+                <a href="addUser.php" type="button" class="inline-block px-6 py-2.5 bg-blue-600 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out">Thêm mới</a>
+              </div>
             <div class="overflow-x-auto sm:-mx-6 lg:-mx-8">
               <div class="py-2 inline-block min-w-full sm:px-6 lg:px-8">
         
