@@ -167,16 +167,16 @@
                         <li>Thứ 7, chủ nhật: 7h30 - 21h00</li>
                     </ul>
                     <div class="phone">
-                        <img src="/upload/img/icon/phone-2.aecf5e0a.svg" alt="">
+                        <img src="/upload/icon/phone-2.aecf5e0a.svg" alt="">
                         <span>HOTLINE: 1800.xx.xx.xx (Miễn phí)</span>
                     </div>
                     <div class="app-cash">
                         <span class="app-cash__label">Chấp nhận thanh toán</span>
                         <div class="app-cash__list">
                             <div class="app-cash__item">
-                                <img src="/upload/img/icon/visa.689e1cc5.svg" alt="">
+                                <img src="/upload/icon/visa.689e1cc5.svg" alt="">
                             </div>
-                            <div class="app-cash__item"><img src="/upload/img/icon/mastercard.7d32e23f.svg" alt=""></div>
+                            <div class="app-cash__item"><img src="/upload/icon/mastercard.7d32e23f.svg" alt=""></div>
                         </div>
                     </div>
                 </div>
