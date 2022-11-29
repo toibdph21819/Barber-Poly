@@ -48,19 +48,19 @@
             <span>Chọn giờ bắt đầu</span>
 
             <div class="grid ">
-              <div class="knot-time"><a href="" class="time">8hAM</a></div>
-              <div class="knot-time"><a href="" class="time">9hAM</a></div>
+              <div class="knot-time"><a href="" class="time">8-9hAM</a></div>
+              
               <div class="knot-time"><a href="" class="time">10hAM</a></div>
               <div class="knot-time"><a href="" class="time">11hAM</a></div>
               <div class="knot-time"><a href="" class="time">12hAM</a></div>
-              <div class="knot-time"><a href="" class="time">1hPM</a></div>
-              <div class="knot-time"><a href="" class="time">2hPM</a></div>
-              <div class="knot-time"><a href="" class="time">3hPM</a></div>
-              <div class="knot-time"><a href="" class="time">4hPM</a></div>
-              <div class="knot-time"><a href="" class="time">5hPM</a></div>
-              <div class="knot-time"><a href="" class="time">6hPM</a></div>
-              <div class="knot-time"><a href="" class="time">7hPM</a></div>
-              <div class="knot-time"><a href="" class="time">8hPM</a></div>
+             
+              <div class="knot-time"><a href="" class="time">1-2hPM</a></div>
+             
+              <div class="knot-time"><a href="" class="time">3-4hPM</a></div>
+           
+              <div class="knot-time"><a href="" class="time">5-6hPM</a></div>
+             
+              <div class="knot-time"><a href="" class="time">7-8hPM</a></div>
             </div>
           </div>
           <div class="input-form">
